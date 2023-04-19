@@ -1,0 +1,3 @@
+module(name = "dep", version = "")
+
+bazel_dep(name = "rules_python", version = "0.20.0")
